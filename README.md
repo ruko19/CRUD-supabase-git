@@ -1,1 +1,0 @@
-# CRUD-supabase-git
